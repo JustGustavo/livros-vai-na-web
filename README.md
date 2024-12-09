@@ -1,0 +1,1 @@
+Projeto feito para fins de estudo de React e suas aplicações feito pelo a escola Vai Na Web com o layout deu u site representando e incentivando a doação de livros leitura e união pelo aprendizado feito nas escalas de um monitor 1366x768 
